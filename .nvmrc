@@ -1,0 +1,3 @@
+# Este arquivo evita que o Netlify tente instalar Python
+# Netlify não suporta aplicações Flask - use Render.com ou Railway.app
+

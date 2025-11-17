@@ -1,0 +1,10 @@
+[build]
+  # Build desabilitado - Aplicações Flask/Python não são suportadas no Netlify
+  # Use Render.com, Railway.app ou PythonAnywhere para hospedar Flask
+  command = "npm run build"
+  publish = "."
+  
+[build.environment]
+  # Evitar detecção automática de Python
+  SKIP_DEPENDENCY_INSTALL = "false"
+

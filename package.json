@@ -1,0 +1,9 @@
+{
+  "name": "osint-tool",
+  "version": "1.0.0",
+  "description": "Flask app - not deployable on Netlify",
+  "scripts": {
+    "build": "echo 'This Flask app cannot run on Netlify. Use Render.com, Railway.app or PythonAnywhere instead.' && exit 0"
+  }
+}
+

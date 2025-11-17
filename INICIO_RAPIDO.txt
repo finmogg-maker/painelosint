@@ -1,0 +1,40 @@
+═══════════════════════════════════════════════════════════════
+  🔍 FERRAMENTA OSINT - GUIA RÁPIDO (Python 3)
+═══════════════════════════════════════════════════════════════
+
+📋 PRÉ-REQUISITOS
+  ✓ Python 3.6 ou superior (você tem Python 3.14.0 ✅)
+
+🚀 INÍCIO RÁPIDO
+
+1️⃣  Instalar dependências:
+    pip install -r requirements.txt
+    (ou: pip3 install -r requirements.txt)
+
+2️⃣  Iniciar a aplicação:
+    python iniciar.py
+    (ou: python3 iniciar.py)
+
+3️⃣  Acessar no navegador:
+    http://localhost:5000
+
+═══════════════════════════════════════════════════════════════
+
+📝 FUNCIONALIDADES
+
+  • Buscar Nome        → Informações sobre pessoas
+  • Buscar Processo    → Processos judiciais
+  • Buscar Foto        → Busca reversa de imagens
+  • Histórico          → Ver todas as buscas anteriores
+  • Estatísticas       → Dashboard com métricas
+
+═══════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+  • Todas as buscas são salvas automaticamente no banco de dados
+  • O banco de dados (osint_database.db) é criado automaticamente
+  • Para parar o servidor, pressione Ctrl+C
+
+═══════════════════════════════════════════════════════════════
+

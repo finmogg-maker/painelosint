@@ -1,0 +1,10 @@
+# Ignorar arquivos Python para evitar detecção automática
+*.py
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+requirements.txt
+Procfile
+runtime.txt
+
